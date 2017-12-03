@@ -1,0 +1,15 @@
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\emgucvOCR.exe.config
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.Form1.resources
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.Properties.Resources.resources
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.csproj.GenerateResource.Cache
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\emgucvOCR.exe
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\emgucvOCR.pdb
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\Emgu.CV.UI.dll
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\Emgu.CV.World.dll
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\ZedGraph.dll
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\Emgu.CV.UI.xml
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\Emgu.CV.World.xml
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.exe
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.pdb
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\bin\x64\Debug\cvextern.dll
+c:\users\seed1\onedrive\文件\visual studio 2015\Projects\emgucvOCR\emgucvOCR\obj\x64\Debug\emgucvOCR.csprojResolveAssemblyReference.cache
